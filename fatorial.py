@@ -1,7 +1,7 @@
-def fatorial(factor):
+def fatorial(fator):
   
-    aux= factor
-    total=factor
+    aux= fator
+    total= fator
     while aux > 1:
         total*= aux-1
         aux -= 1
